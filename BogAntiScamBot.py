@@ -5,7 +5,7 @@ import asyncio
 from discord.ext.commands import Bot
 from discord.ext import commands
 
-TOKEN = 'ODI5OTEzNDQyOTM2NTUzNTEy.YG_DHw.JrA53uVV9HvzGu0pBUoLRarS964'
+TOKEN = 'ODI5OTEzNDQyOTM2NTUzNTEy.YG_DHw.JrA53uVV9HvzGu0pBUoLRarS964' # TODO: replace - example token. Can also read .env or .txt file.
 intents = discord.Intents.default()
 intents.members = True
 
